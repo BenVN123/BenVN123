@@ -12,4 +12,5 @@
 - Docker
 - Data structures
 
-[LinkedIn](linkedin.com/in/ben-nguyen-214220209)
+[📧 Email](bnguyen123.vn@gmail.com)
+[🔗 LinkedIn](linkedin.com/in/ben-nguyen-214220209)
