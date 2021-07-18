@@ -11,3 +11,5 @@
 - Django
 - Docker
 - Data structures
+
+[LinkedIn](linkedin.com/in/ben-nguyen-214220209)
