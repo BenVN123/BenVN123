@@ -6,7 +6,6 @@
 - Robotics enthusiast
 - Pianist of 9 years
 
-
 **I am currently learning:**
 - Java
 - Django
