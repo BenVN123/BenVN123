@@ -4,7 +4,7 @@
 - High school student (c/o 2024)
 - Python programmer
 - Robotics enthusiast
-- Pianist of 10 years
+- Pianist of 9 years
 
 **I am currently learning:**
 - Java
