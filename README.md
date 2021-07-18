@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [@BenVN123](https://github.com/BenVN123)
 
-**ಠ⌣ಠ I am a:**
+**😁 I am a:**
 - High school student (c/o 2024)
 - Python programmer
 - Robotics enthusiast
