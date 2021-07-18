@@ -12,4 +12,4 @@
 - Docker
 - Data structures
 
-📧 [Email](https://bnguyen123.vn@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/ben-nguyen-214220209)
+📧 [Email](mailto:bnguyen123.vn@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/ben-nguyen-214220209)
