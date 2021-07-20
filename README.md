@@ -13,4 +13,4 @@
 - Express.js
 - Data structures
 
-📧 [Email](mailto:bnguyen123.vn@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/ben-nguyen-214220209)
+📧 [Email](mailto:bnguyen123.vn@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/ben-nguyen-214220209)
