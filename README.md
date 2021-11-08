@@ -4,13 +4,6 @@
 - High school student (c/o 2024)
 - Python programmer
 - Robotics enthusiast
-- Pianist of 9 years
-
-**🧠 I am currently learning:**
-- Java
-- Django
-- Docker
-- Express.js
-- Data structures
+- Pianist of 10 years
 
 📧 [Email](mailto:bnguyen123.vn@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/ben-nguyen-214220209)
