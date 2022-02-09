@@ -14,5 +14,4 @@ My name is Ben Nguyen, a 10th grader who is interested in the field of computer 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenVN123&show_icons=true&locale=en&layout=compact" alt="BenVN123"/></p>
 
 **Contact me**
-
 📧 [Email](mailto:bnguyen123.vn@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/ben-nguyen-214220209)
