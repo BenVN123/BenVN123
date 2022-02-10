@@ -9,9 +9,9 @@ My name is Ben Nguyen, a 10th grader who is interested in the field of computer 
 - 🎹 I am a pianist of 10 years
 
 ## Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BenVN123&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BenVN123&langs_count=5&theme=synthwave&showicons=true)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BenVN123&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BenVN123&count_private=true&theme=synthwave&showicons=true)]()
 
 
 📧 [Email](mailto:bnguyen123.vn@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/ben-nguyen-214220209)
