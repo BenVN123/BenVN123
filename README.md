@@ -4,7 +4,7 @@ My name is Ben Nguyen, a 10th grader who is interested in the field of computer 
 ## About Me
 - 👋 I am [@BenVN123](https://github.com/BenVN123)
 - 🤖 I am part of my school's robotics teams: FTC 18715 & FRC 2954
-- 🚗 I am very interested in computer science for robots and vehicles 
+- 🚗 I am very interested in the softwares behind robots, vehicles, and wireless communications 
 - 👨‍💻 I want to learn C++, C#, and Swift
 - 🎹 I am a pianist of 10 years
 
