@@ -1,5 +1,5 @@
 # Hello World
-My name is Ben Nguyen, a 10th grader who is interested in the field of computer science. I am interested in many languages, such as Python, Java, and C++.
+My name is Ben Nguyen, a 10th grader who is interested in the field of computer science. I am experienced in Python and Java, as well as many frameworks, libraries, and softwares.
 
 ## About Me
 - 👋 I am [@BenVN123](https://github.com/BenVN123)
