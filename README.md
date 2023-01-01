@@ -4,8 +4,8 @@ My name is Ben Nguyen, a 11th grader who is interested in the field of computer 
 ## About Me
 - 👋 I am [@BenVN123](https://github.com/BenVN123)
 - 🤖 I am part of my school's robotics teams: FTC 18715 & FRC 2954
-- 🚗 I am very interested in the softwares behind robots, vehicles, and wireless communications 
-- 👨‍💻 I want to learn C++ and C#
+- 🚗 I am very interested in robots and cybersecurity
+- 👨‍💻 I want to learn Julia
 
 ## Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BenVN123&langs_count=5&theme=aura&showicons=true&border_radius=8)]()
