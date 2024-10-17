@@ -4,7 +4,6 @@ My name is Ben Nguyen, an SJSU student majoring in Computer Engineering.
 ## About Me
 - 👋 I am [@BenVN123](https://github.com/BenVN123)
 - 🚗 I want to work with embedded and low-level systems
-- 👨‍💻 I am currently learning Assembly
 
 ## Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BenVN123&langs_count=5&theme=aura&showicons=true&border_radius=8)]()
