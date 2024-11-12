@@ -1,7 +1,8 @@
 # Hi :D
 
 - I go to SJSU for Computer Engineering
-- I want to do embedded engineering or work with low-level systems
+- I want to work with low-level systems or network applications
+- I use neovim btw
 
 ## Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BenVN123&layout=pie&langs_count=8&theme=tokyonight&showicons=true&border_radius=8)]()
