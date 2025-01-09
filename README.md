@@ -1,7 +1,7 @@
 # Hi :D
 
 - I go to SJSU for Computer Engineering
-- I want to work with low-level systems or network applications
+- I want to work with low-level or embedded systems
 - I use neovim btw
 
 ## Stats
