@@ -1,7 +1,7 @@
 # Hi :D
 
 - I go to SJSU for Computer Engineering
-- I'm interested in low-level/embedded systems and distributed networks
+- I'm interested in low-level/embedded systems, distributed networks, and AI
 - I use neovim btw
 
 ## Stats
